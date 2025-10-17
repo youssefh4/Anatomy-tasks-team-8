@@ -6,7 +6,7 @@ A curated collection of repositories and resources by Team 8, focused on anatomy
 
 ## Related Projects
 
-- [Medical MPR Viewer](https://github.com/youssefh4/Medical-MPR-Viewer):  
+- [Medical MPR Viewer](https://github.com/youssefh4/MPR-viewer):  
   A multi-planar reconstruction viewer for DICOM and NIfTI medical images, including segmentation and advanced viewing tools.
 
 ## 🏥 Medical image segmentation
