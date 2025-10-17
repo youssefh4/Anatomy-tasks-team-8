@@ -13,7 +13,7 @@ A multi-planar reconstruction (MPR) viewer for DICOM and NIfTI medical images, i
 
 ## 🏥 Medical Image Segmentation
 
-- [anatomy-tasks](https://github.com/MeMo146/anatomy-tasks)  
+- [anatomy-tasks](https://github.com/youssefh4/Scan-Medical-organ-segmentation)  
   Deep learning and classical methods for medical image segmentation, with code, datasets, and documentation supporting research and education.
 
 ---
